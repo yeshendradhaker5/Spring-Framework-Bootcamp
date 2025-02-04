@@ -5,5 +5,4 @@
 - Assignments
 - Projects
 - Assignments Solutions
-
-# New Project Every Thursday 
+- Industry Level Full Project will be Published on Every Thursday 
