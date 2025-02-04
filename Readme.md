@@ -5,3 +5,5 @@
 - Assignments
 - Projects
 - Assignments Solutions
+
+# New Project Every Thursday 
