@@ -5,4 +5,4 @@
 - Assignments
 - Projects
 - Assignments Solutions
-- __Industry Level Full Project will be uploaded on every thursday.__ 
+- __Full Project will be uploaded on every thursday.__ 
