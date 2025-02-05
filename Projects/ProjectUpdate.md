@@ -1,1 +1,1 @@
-Industry Level Full Projects will be uploaded every Thursday.
+Industry Level Full Projects will be uploaded every Friday.
